@@ -2,6 +2,7 @@
 
 [![Latest Stable Version](https://poser.pugx.org/mitchellvanw/laravel-doctrine/version.png)](https://packagist.org/packages/mitchellvanw/laravel-doctrine)
 [![License](https://poser.pugx.org/mitchellvanw/laravel-doctrine/license.png)](https://packagist.org/packages/mitchellvanw/laravel-doctrine)
+[![Build Status](https://travis-ci.org/evopix/laravel-doctrine.svg?branch=l5)](https://travis-ci.org/evopix/laravel-doctrine)
 [![Total Downloads](https://poser.pugx.org/mitchellvanw/laravel-doctrine/downloads.png)](https://packagist.org/packages/mitchellvanw/laravel-doctrine)
 
 A Doctrine 2 implementation that melts with Laravel 5.
