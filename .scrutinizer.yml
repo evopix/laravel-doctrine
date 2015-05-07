@@ -1,0 +1,17 @@
+filter:
+  paths: [src/*]
+  excluded_paths: [bin/*, spec/*, tests/*, stub/*, coverage/*]
+checks:
+  php: true
+tools:
+  php_code_sniffer:
+    config:
+      standard: PSR2
+    filter:
+      paths: ['src']
+  php_loc:
+    enabled: true
+    excluded_dirs: [vendor, spec, stubs]
+  php_cpd:
+    enabled: true
+    excluded_dirs: [vendor, spec, stubs]
