@@ -1,3 +1,5 @@
+# This repository is deprecated and no longer maintained. Please use [laravel-doctrine/orm](https://github.com/laravel-doctrine/orm) instead!
+
 # Doctrine 2 for Laravel
 
 [![Latest Stable Version](https://poser.pugx.org/mitchellvanw/laravel-doctrine/version.png)](https://packagist.org/packages/mitchellvanw/laravel-doctrine)
